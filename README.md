@@ -1,10 +1,8 @@
-# Hybrid Attention Network: An Efficient Approach for Anatomy-free Landmark Detection
+# HYATT-Net is Grand: A Hybrid Attention Network for Performant Anatomical Landmark Detection
 
-**This is the official pytorch implementation repository of our Hybrid Attention Network: An Efficient Approach for Anatomy-free
-Landmark Detection** 
+**This is the official pytorch implementation repository of our HYATT-Net is Grand: A Hybrid Attention Network for Performant Anatomical Landmark Detection** 
 
 - Link to paper: https://arxiv.org/abs/2412.06499
-- Link to github: https://github.com/MIRACLE-Center/Hybrid Attention Network.git
 
 
 ## Dataset
